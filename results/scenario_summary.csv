@@ -1,0 +1,6 @@
+scenario,status,total_cost_INR,avg_delivery_time_hrs,sla_pct_within_48h,open_warehouses
+base,optimal,78824893.61,4.26,100.0,"WH_MUM, WH_DEL, WH_BLR, WH_HYD, WH_KOL"
+peak_demand,optimal,94563356.96,4.26,100.0,"WH_MUM, WH_DEL, WH_BLR, WH_HYD, WH_KOL, WH_PNE"
+fuel_spike,optimal,98086992.01,4.26,100.0,"WH_MUM, WH_DEL, WH_BLR, WH_HYD, WH_KOL"
+mumbai_down,optimal,78954893.61,4.26,100.0,"WH_DEL, WH_BLR, WH_HYD, WH_KOL"
+combined_stress,optimal,108466849.6,4.26,100.0,"WH_DEL, WH_BLR, WH_HYD, WH_KOL, WH_PNE"

@@ -1,0 +1,21 @@
+city,state,lat,lon,demand
+Delhi,Delhi,28.6139,77.209,1200
+Mumbai,Maharashtra,19.076,72.8777,1500
+Bengaluru,Karnataka,12.9716,77.5946,1100
+Hyderabad,Telangana,17.385,78.4867,900
+Chennai,Tamil Nadu,13.0827,80.2707,950
+Kolkata,West Bengal,22.5726,88.3639,1000
+Pune,Maharashtra,18.5204,73.8567,800
+Ahmedabad,Gujarat,23.0225,72.5714,700
+Jaipur,Rajasthan,26.9124,75.7873,600
+Lucknow,Uttar Pradesh,26.8467,80.9462,650
+Indore,Madhya Pradesh,22.7196,75.8577,500
+Nagpur,Maharashtra,21.1458,79.0882,520
+Surat,Gujarat,21.1702,72.8311,550
+Patna,Bihar,25.5941,85.1376,580
+Bhopal,Madhya Pradesh,23.2599,77.4126,480
+Kochi,Kerala,9.9312,76.2673,520
+Coimbatore,Tamil Nadu,11.0168,76.9558,540
+Visakhapatnam,Andhra Pradesh,17.6868,83.2185,560
+Chandigarh,Chandigarh,30.7333,76.7794,420
+Guwahati,Assam,26.1445,91.7362,400
